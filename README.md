@@ -1,2 +1,2 @@
 # SlmisRevamp
-cc12 proj
+The one's that are input newly is currently the one i have upgraded
